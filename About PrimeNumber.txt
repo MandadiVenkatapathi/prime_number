@@ -1,0 +1,4 @@
+Here firstly we take a one number
+And then we theck whether it's prime or not
+So fristly what is prime number
+prime num is noting but a number which num is multiple by 1 and itslif is called a prime number
